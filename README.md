@@ -1,5 +1,5 @@
 # "Hello World!" in 3D, with ray tracing, yo! 
-## When Your Normal “Hello World” is Mid… but You Have an RTX
+## When your normal “Hello World” hits cringe… but you have an RTX
 
 ### Dependencies (RHEL 9)
 ```console
